@@ -49,10 +49,11 @@ Another student in my group provided feedback on my work as follows: <!-- move t
 
 | Criterion | 40- | 40+ | 50+ | 60+ | 70+ | 
 |-----------|:---:|:---:|:---:|:---:|:---:|
-| 1.1       |     |     |  o  |     |     |
-| 1.2       |     |     |     |  o  |     |
+| 1.1       |     |     |     |  o  |     |
+| 1.2       |     |  o  |     |     |     |
 | 2.1       |     |     |  o  |     |     |
 | 2.2       |     |     |     |  o  |     |
-| 3.1       |     |  o  |     |     |     |
+| 3.1       |     |     |  o  |     |     |
 
-Feedback given by: <!-- add student number and date -->
+
+Feedback given by: 2300260, 16/01/2024 <!-- add student number and date -->
