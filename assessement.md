@@ -38,13 +38,14 @@ Using the marking rubric, I've assessed my own progress: <!-- move the symbols i
 
 | Criterion | 40- | 40+ | 50+ | 60+ | 70+ | 
 |-----------|:---:|:---:|:---:|:---:|:---:|
-| 1.1       |     |     |     |     |     |
+| 1.1       |     |     |     |     |  o  |
 | 1.2       |     |     |     |  o  |     |
 | 2.1       |     |     |  o  |     |     |
-| 2.2       |     |     |     |  o  |     |
-| 3.1       |     |  o  |     |     |     |
+| 2.2       |     |     |     |     |  o  |
+| 3.1       |     |     |     |  o  |     |
 
-I enjoyed writing this blog because I could write what I wanted to know more about this topic and I could know now. I would say it is a good structure for this essay. If I put it directly on GitHub, it would be difficult to read and correct, so I first wrote it in Word and then copied it to GitHub. However, I should have started earlier because this one is more than just an essay we need to put this to GitHub. Once I learned how to bold, incorporate images, include references, etc., I could proceed easily.
+I enjoyed writing this blog because I could write what I wanted to know more about this topic and I could know now. I would say it is a good structure for this essay. If I put it directly on GitHub, it would be difficult to read and correct, so I first wrote it in Word and then copied it to GitHub. However, I should have started earlier because this one is more than just an essay, we need to put this to GitHub also, for me it is not used to using this. And I didn’t write down my progress in Readme.md after I worked, so I couldn’t write detail for each day. Once I learned how to bold, incorporate images, include references, etc., I could proceed easily. The paragraph of data collection was not well organized. Also, there are long sentences in some part, so it was hard to read. Then I make a paragraph even it is in same part. As we can see below the comment from peer work review, I changed some part in my text and try to add example about that. Overall, the structure is better than I thought and I think it is easy to keep reading. And in reference list I used footnote methods and put the link in there so it is easy to access to my references. 
+
 
 ## Peer-assessment
 Another student in my group provided feedback on my work as follows: <!-- move the symbols in the table below -->
