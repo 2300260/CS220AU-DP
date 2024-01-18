@@ -37,6 +37,8 @@
 
 
 ## Log
+2024-01-17 Got peer work review and finish to write
+
 2024-01-16 Did peer work review 
 
 2024-01-13~17 Write a essay to Word and copy and paste to GitHub; 13-15: Focused on Part1,2
