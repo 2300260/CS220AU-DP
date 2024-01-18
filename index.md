@@ -61,12 +61,6 @@ As shown in the Data collection part, one of the reasons tech companies collect 
 
 ## Conclusion
 In the summary, the impact of tech companies on us is very significant. Tech companies collect our wide range of much information through a variety of methods. By providing more data to companies, users can get advertising that is suitable for each of them and can always use better websites and platforms, but this increases the risk of personal data being leaked and the risk of privacy breaches. There were also problems with the privacy policy and cookie terms and conditions for companies to get our consent to collect our data. This is a problem that companies should improve on, but users should also be aware that we are taking the risk of providing our data, rather than agreeing to it without reading it at all because as technology becomes more and more advanced, providing our data could lead to some risks. In particular, voice and image recognition, which have developed in recent years, raise privacy concerns and may lead to crime. Thus, benefits and risks are linked to each other. It is important not only to be scared of the risks but also to know how to deal with them and what risks you are exposed to. 
-
-
-
-
-## References
-
 [^3]: Kim, C., Taylor, R. & Rohde, K. (2022). [Data Privacy Through the Lens of Big Tech. The Regulatory Review.](https://www.theregreview.org/2022/03/12/saturday-seminar-data-privacy-through-lens-big-tech/). The Regulatory Review.
 [^5]: Fowler, G. (2022). [I tried to read all my app privacy policies. It was 1 million words](https://www.washingtonpost.com/technology/2022/05/31/abolish-privacy-policies/). Washington Post.
 [^6]: Calver, T & Miller. J. (2018). [What tech giants really do with your data](https://www.bbc.co.uk/news/business-44702483). BBC News. 
